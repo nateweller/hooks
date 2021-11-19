@@ -16,4 +16,4 @@ Interface for working with a single point of data from `useDataStore()`.
 
 ## useForm()
 
-Wrapper for form handling.
+Wrapper for form handling with Formik.
